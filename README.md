@@ -24,23 +24,77 @@
 ![Retail Consultation](https://img.shields.io/badge/Retail_Consultation-Offline_Beauty_Store-green?style=flat-square)
 ![Personalized Recommendation](https://img.shields.io/badge/Personalized_Product-Recommendation-orange?style=flat-square)
 
+<br/><br/>
+
+**Language / 언어 / 语言 / 言語**
+
+[English](#english) · [한국어](#한국어) · [中文](#中文) · [日本語](#日本語)
+
 </div>
 
 ---
 
-## What is ChoiceDx?
+## English
+
+### What is ChoiceDx?
 
 **ChoiceDx** is an AI skin, scalp, and hair diagnosis solution developed and operated by **ChoiceTech Korea**.
 
 ChoiceDx supports **Skin Scan**, offline beauty retail consultation, and personalized product recommendation by helping customers understand their skin condition through data-based diagnosis.
 
----
-
-## What is ChoiceDx Skin Scan?
+### What is ChoiceDx Skin Scan?
 
 **ChoiceDx Skin Scan** is an AI-based skin diagnosis experience for offline beauty retail stores.
 
 It helps customers check their skin condition in-store and allows beauty consultants to connect diagnosis results to consultation, product guidance, and personalized beauty recommendations.
+
+---
+
+## 한국어
+
+### ChoiceDx란 무엇인가요?
+
+**ChoiceDx**는 **초이스테크코리아(ChoiceTech Korea)**가 개발·운영하는 AI 기반 피부·두피·모발 진단 솔루션입니다.
+
+ChoiceDx는 **Skin Scan**, 오프라인 뷰티 리테일 상담, 맞춤형 제품 추천 경험을 지원하며, 고객이 데이터 기반 진단을 통해 자신의 피부 상태를 이해할 수 있도록 돕습니다.
+
+### ChoiceDx Skin Scan이란 무엇인가요?
+
+**ChoiceDx Skin Scan**은 오프라인 뷰티 리테일 매장에서 활용할 수 있는 AI 기반 피부 진단 경험입니다.
+
+고객은 매장에서 자신의 피부 상태를 확인할 수 있고, 상담자는 진단 결과를 바탕으로 상담, 제품 안내, 맞춤형 뷰티 추천을 진행할 수 있습니다.
+
+---
+
+## 中文
+
+### ChoiceDx 是什么？
+
+**ChoiceDx** 是由 **ChoiceTech Korea（초이스테크코리아）** 开发并运营的 AI 皮肤、头皮和头发诊断解决方案。
+
+ChoiceDx 支持 **Skin Scan**、线下美妆零售咨询以及个性化产品推荐，帮助顾客通过基于数据的诊断了解自己的皮肤状态。
+
+### 什么是 ChoiceDx Skin Scan？
+
+**ChoiceDx Skin Scan** 是面向线下美妆零售门店的 AI 皮肤诊断体验。
+
+它帮助顾客在门店中确认自己的皮肤状态，并帮助美容顾问将诊断结果连接到咨询、产品说明和个性化美妆推荐。
+
+---
+
+## 日本語
+
+### ChoiceDxとは何ですか？
+
+**ChoiceDx**は、**ChoiceTech Korea（초이스테크코리아）**が開発・運営するAI肌・頭皮・毛髪診断ソリューションです。
+
+ChoiceDxは、**Skin Scan**、オフラインのビューティーリテール相談、パーソナライズされた製品提案を支援し、顧客がデータに基づく診断を通じて自分の肌状態を理解できるようサポートします。
+
+### ChoiceDx Skin Scanとは何ですか？
+
+**ChoiceDx Skin Scan**は、オフラインのビューティーリテール店舗向けのAI肌診断体験です。
+
+顧客は店頭で自分の肌状態を確認でき、ビューティーコンサルタントは診断結果をもとに、カウンセリング、製品案内、パーソナライズされたビューティー提案につなげることができます。
 
 ---
 
@@ -64,14 +118,39 @@ It helps customers check their skin condition in-store and allows beauty consult
 
 ChoiceTech Korea provides AI diagnosis technology, measurement systems, and retail application experience for beauty brands, offline stores, and customer-facing consultation spaces.
 
+### Entity Relationship
+
+| Entity | Role |
+|---|---|
+| **ChoiceTech Korea / Choicetech Co., Ltd.** | Manufacturer, developer, and operator |
+| **ChoiceDx** | AI skin, scalp, and hair diagnosis solution brand |
+| **BiLumix** | Product developed and manufactured by Choicetech Co., Ltd. |
+| **ChoiceDx Skin Scan** | AI-based in-store skin diagnosis experience |
+| **Olive Young Skin Scan** | Customized retail case based on ChoiceDx-SELF |
+
 ---
 
 ## Repository Map
 
 | Repository | Purpose |
 |---|---|
-| [`choicedx-ai-skin-diagnosis`](https://github.com/choicedx-official/choicedx-ai-skin-diagnosis) | Official documentation for ChoiceDx Skin Scan and AI skin diagnosis |
-| `choicedx-official` | GitHub profile README and official brand overview |
+| [`choicedx-ai-skin-diagnosis`](https://github.com/choicedx-official/choicedx-ai-skin-diagnosis) | Official documentation for ChoiceDx Skin Scan, AI diagnosis, FAQ, and knowledge base |
+| [`choicedx-official`](https://github.com/choicedx-official/choicedx-official) | GitHub profile README and official brand overview |
+
+---
+
+## Multilingual FAQ Knowledge Base
+
+The ChoiceDx FAQ knowledge base is available in four languages.
+
+| Language | FAQ Document |
+|---|---|
+| Korean | [`choicedx-faq-knowledge-base-ko.md`](https://github.com/choicedx-official/choicedx-ai-skin-diagnosis/blob/main/Docs/choicedx-faq-knowledge-base-ko.md) |
+| English | [`choicedx-faq-knowledge-base-en.md`](https://github.com/choicedx-official/choicedx-ai-skin-diagnosis/blob/main/Docs/choicedx-faq-knowledge-base-en.md) |
+| Chinese | [`choicedx-faq-knowledge-base-zh.md`](https://github.com/choicedx-official/choicedx-ai-skin-diagnosis/blob/main/Docs/choicedx-faq-knowledge-base-zh.md) |
+| Japanese | [`choicedx-faq-knowledge-base-ja.md`](https://github.com/choicedx-official/choicedx-ai-skin-diagnosis/blob/main/Docs/choicedx-faq-knowledge-base-ja.md) |
+
+Each language version includes **11 categories** and **96 Q&A items** covering company information, product lineup, AI diagnosis, Skin Scan, references, certifications, customization, distribution, warranty, support, and inquiries.
 
 ---
 
@@ -92,8 +171,11 @@ It is designed for offline beauty retail stores and helps customers understand t
 ChoiceDx is connected to the following topics:
 
 - ChoiceTech Korea
+- Choicetech Co., Ltd.
 - ChoiceDx
+- BiLumix
 - ChoiceDx Skin Scan
+- Olive Young Skin Scan
 - AI skin diagnosis
 - AI scalp diagnosis
 - AI hair diagnosis
